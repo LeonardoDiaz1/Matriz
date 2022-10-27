@@ -1,0 +1,15 @@
+C:\Users\Leonardo\OneDrive\Escritorio\Proyectos\Resta_Matriz\bin\Debug\net6.0\Resta_Matriz.exe
+C:\Users\Leonardo\OneDrive\Escritorio\Proyectos\Resta_Matriz\bin\Debug\net6.0\Resta_Matriz.deps.json
+C:\Users\Leonardo\OneDrive\Escritorio\Proyectos\Resta_Matriz\bin\Debug\net6.0\Resta_Matriz.runtimeconfig.json
+C:\Users\Leonardo\OneDrive\Escritorio\Proyectos\Resta_Matriz\bin\Debug\net6.0\Resta_Matriz.dll
+C:\Users\Leonardo\OneDrive\Escritorio\Proyectos\Resta_Matriz\bin\Debug\net6.0\Resta_Matriz.pdb
+C:\Users\Leonardo\OneDrive\Escritorio\Proyectos\Resta_Matriz\obj\Debug\net6.0\Resta_Matriz.csproj.AssemblyReference.cache
+C:\Users\Leonardo\OneDrive\Escritorio\Proyectos\Resta_Matriz\obj\Debug\net6.0\Resta_Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\OneDrive\Escritorio\Proyectos\Resta_Matriz\obj\Debug\net6.0\Resta_Matriz.AssemblyInfoInputs.cache
+C:\Users\Leonardo\OneDrive\Escritorio\Proyectos\Resta_Matriz\obj\Debug\net6.0\Resta_Matriz.AssemblyInfo.cs
+C:\Users\Leonardo\OneDrive\Escritorio\Proyectos\Resta_Matriz\obj\Debug\net6.0\Resta_Matriz.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\OneDrive\Escritorio\Proyectos\Resta_Matriz\obj\Debug\net6.0\Resta_Matriz.dll
+C:\Users\Leonardo\OneDrive\Escritorio\Proyectos\Resta_Matriz\obj\Debug\net6.0\refint\Resta_Matriz.dll
+C:\Users\Leonardo\OneDrive\Escritorio\Proyectos\Resta_Matriz\obj\Debug\net6.0\Resta_Matriz.pdb
+C:\Users\Leonardo\OneDrive\Escritorio\Proyectos\Resta_Matriz\obj\Debug\net6.0\Resta_Matriz.genruntimeconfig.cache
+C:\Users\Leonardo\OneDrive\Escritorio\Proyectos\Resta_Matriz\obj\Debug\net6.0\ref\Resta_Matriz.dll
